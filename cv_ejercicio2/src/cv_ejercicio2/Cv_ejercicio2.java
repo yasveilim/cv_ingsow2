@@ -9,15 +9,16 @@ package cv_ejercicio2;
  *
  * @author MONICA MENDOZA
  */
-public class Cv_ejercicio2 {
+public class Cv_ejercicio2 
+{
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         // TODO code application logic here
-        //Versión 1
-        //Versión de desarrollador 1
+        System.out.println("Versión 1");
     }
     
 }
